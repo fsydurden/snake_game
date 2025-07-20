@@ -29,4 +29,4 @@ python main.py
 * **`main.py`** controls the game loop and handles input
 * **`snake.py`** manages snake movement and collision
 * **`food.py`** spawns food randomly on the screen
-* **`scorebord.py`** tracks and displays the score
+* **`scorebord.py`** tracks and displays the score.
