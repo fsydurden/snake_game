@@ -2,11 +2,6 @@
 
 A classic Snake game implemented in Python using `pygame`. The game features smooth movement, score tracking, and collision detection.
 
-### Game Demo
-
-[![Watch the Snake Game Demo](./assets/snake_preview.gif)](./assets/snake_gif.mp4)
-
-
 ## 🚀 Installation & Setup
 
 1. **Clone this repository**
